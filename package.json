@@ -1,0 +1,27 @@
+{
+  "name": "append-files",
+  "version": "1.0.0",
+  "description": "Append CSS files in head and JS files in body tag.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samiahmedsiddiqui/append-files.git"
+  },
+  "keywords": [
+    "react",
+    "css",,
+    "js",
+    "inline-css",
+    "inline-script"
+    "react-components",
+  ],
+  "author": "Sami Ahmed Siddiqui <sami.siddiqui@yasglobal.com> (https://www.yasglobal.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samiahmedsiddiqui/append-files/issues"
+  },
+  "homepage": "https://github.com/samiahmedsiddiqui/append-files#readme"
+}
